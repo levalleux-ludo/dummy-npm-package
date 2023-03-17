@@ -1,0 +1,20 @@
+{
+  "name": "@levalleux_ludo/dummy-npm-package",
+  "version": "1.0.0",
+  "description": "\"# dummy-npm-package\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "postinstall": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levalleux-ludo/dummy-npm-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levalleux-ludo/dummy-npm-package/issues"
+  },
+  "homepage": "https://github.com/levalleux-ludo/dummy-npm-package#readme"
+}
